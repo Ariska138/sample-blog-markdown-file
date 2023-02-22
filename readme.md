@@ -19,6 +19,10 @@ https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-prev
 
 Ctrl+Shift+V
 
+### ketentukan Hero Image
+
+terdapat 2 folder, Large dan small. Large akan ditampilkan di PC dengan ukuran 900x500px sedangkan small akan ditampilkan di mobile dengan ukuran 450x240px. nama file adalah nama urlnya.
+
 ### Tutorial Lain
 
 https://www.petanikode.com/markdown-pemula/
