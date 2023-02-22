@@ -14,7 +14,6 @@ Anda bisa menggunakan git clone atau lewat zip
 ### Plugin VS Code
 
 https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
-atau
 
 ### Untuk Menampilkan tekan
 
